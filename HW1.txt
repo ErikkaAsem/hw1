@@ -7,10 +7,10 @@
 </head>
 <body>
 
-<h1>Welcome to Musiccessories</h1>
-<p>No Instruments. <em>Only Accessories!</em></p>
-<p>If you're looking for instruments? Go to <a href="http://guitarcenter.com">Guitar Center</a></p>
-<p>If you want accessories, visit our <a href="Products.html">products page</a></p>
+<h1>Capsule Cooking</h1>
+<p>Quickly prepare your meals for the week</p>
+
+<p>Looking for chicken recipes? Visit our <a href="chicken.html">chicken capsules/a></p>
 </body>
 </html>
 
